@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_value">AMOUNT</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="result">RESULT</string>
+    <string name="inr_to_cad">INR ₹ TO CAD $</string>
+    <string name="cad_to_inr">CAD $ to INR ₹</string>
+    <string name="unit_converter">Currency Converter</string>
+    <string name="todo">TODO</string>
+</resources>
